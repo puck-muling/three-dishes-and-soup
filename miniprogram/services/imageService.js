@@ -7,8 +7,8 @@
  * 4. 内存级 SVG DataURI 微缩兜底 (0网络0文件白屏防御)
  */
 export const CDN_HOSTS = [
-    'https://cdn.jsdelivr.net/gh/pi-niuniu/three-dishes-and-soup@main/miniprogram',
-    'https://raw.githubusercontent.com/pi-niuniu/three-dishes-and-soup/main/miniprogram'
+    'https://cdn.jsdelivr.net/gh/puck-muling/three-dishes-and-soup@main/miniprogram',
+    'https://raw.githubusercontent.com/puck-muling/three-dishes-and-soup/main/miniprogram'
 ];
 export const CATEGORY_DEFAULT_IMAGES = {
     main_meat: '/assets/dishes/default_main.jpg',

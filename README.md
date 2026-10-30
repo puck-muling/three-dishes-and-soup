@@ -97,7 +97,7 @@
 ### 2. 导入与真机运行
 1. **克隆项目到本地**：
    ```bash
-   git clone https://github.com/pi-niuniu/three-dishes-and-soup.git
+   git clone https://github.com/puck-muling/three-dishes-and-soup.git
    cd three-dishes-and-soup
    ```
 

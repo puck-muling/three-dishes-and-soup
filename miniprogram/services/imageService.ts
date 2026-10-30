@@ -8,8 +8,8 @@
  */
 
 export const CDN_HOSTS = [
-  'https://cdn.jsdelivr.net/gh/pi-niuniu/three-dishes-and-soup@main/miniprogram',
-  'https://raw.githubusercontent.com/pi-niuniu/three-dishes-and-soup/main/miniprogram'
+  'https://cdn.jsdelivr.net/gh/puck-muling/three-dishes-and-soup@main/miniprogram',
+  'https://raw.githubusercontent.com/puck-muling/three-dishes-and-soup/main/miniprogram'
 ];
 
 export const CATEGORY_DEFAULT_IMAGES: Record<string, string> = {
